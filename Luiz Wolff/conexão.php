@@ -2,7 +2,7 @@
     $hostname = "localhost";
     $username ="root";
     $password = "";
-    $database = "db_prj";
+    $database = "prj_php_db";
 
 $mysqli= new mysqli($hostname, $username, $password, $database);
 if ($mysqli -> connect_errno) {

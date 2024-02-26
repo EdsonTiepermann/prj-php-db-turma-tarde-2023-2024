@@ -9,7 +9,8 @@
             margin: 0;
             box-sizing:border-box ;
             padding: 0;
-            background:radial-gradient(rgb(44, 42, 42),black);
+            /* background:radial-gradient(rgb(44, 42, 42),black); */
+            background-color: white;
     }
     header{
             background:radial-gradient(rgb(4, 4, 70), rgb(0, 250, 250));
